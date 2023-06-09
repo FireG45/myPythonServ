@@ -1,0 +1,14 @@
+Sun May 14 23:30:21 2023| Запрос: [eve table2 select]| Статус: Отказано
+Sun May 14 23:30:33 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:31:07 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:31:20 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:31:30 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:31:51 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:32:42 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:32:50 2023| Запрос: [bob table1 select]| Статус: Разрешено
+Sun May 14 23:32:57 2023| Запрос: [bob table2 select]| Статус: Отказано
+Sun May 14 23:33:31 2023| Запрос: [bob table2 select]| Статус: Отказано
+Sun May 14 23:34:25 2023| Запрос: [bob table2 select]| Статус: Отказано
+Sun May 14 23:34:52 2023| Запрос: [bob table2 select]| Статус: Отказано
+Sun May 14 23:35:50 2023| Запрос: [bob table2 select]| Статус: Отказано
+Sun May 14 23:35:53 2023| Запрос: [bob table1 select]| Статус: Разрешено
